@@ -1,0 +1,30 @@
+[
+  {
+    "case_type": "labor",
+    "city": "北京",
+    "province": "北京",
+    "url": "https://rsj.beijing.gov.cn/zwgk/zcfg/ldgx/",
+    "note": "北京市人力资源和社会保障局 - 劳动关系政策法规"
+  },
+  {
+    "case_type": "labor",
+    "city": "北京",
+    "province": "北京",
+    "url": "https://www.bjcourt.gov.cn/cpws/showSsznIndex.htm",
+    "note": "北京法院网 - 诉讼指南"
+  },
+  {
+    "case_type": "divorce",
+    "city": "北京",
+    "province": "北京",
+    "url": "https://www.bjcourt.gov.cn/cpws/showSsznIndex.htm",
+    "note": "北京法院网 - 婚姻家庭类指南"
+  },
+  {
+    "case_type": "contract",
+    "city": "北京",
+    "province": "北京",
+    "url": "https://www.bjcourt.gov.cn/cpws/showSsznIndex.htm",
+    "note": "北京法院网 - 合同纠纷指南"
+  }
+]
